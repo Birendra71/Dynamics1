@@ -3,33 +3,11 @@ title: 'Certification Page-03'
 metadata:
   title: ''
   description: ''
-uid: 
-version: 
-iconUrl: 
-summary: <div data-wrapper="true" dir="ltr" style="font-size:9pt;font-family:'Segoe UI','Helvetica Neue',sans-serif;"><div>try to create gidhub entry.</div></div>
+uid:
+version:
+iconUrl:
+summary: Updated from Azure Function test
 levels:
-- 
+-
 skills:
-- 
-roles:
-- 
-type: 
-products:
-- 
-practiceAssessmentUid: ''
-lastUpdated: 
-hideExamSandbox: False
-examDurationInMinutes: 
-examPricingType: ''
-courseUid: 
-subjects:
-  - 
-locales:
-- 
-providers:
- - providerType: 
-   examUrl: 
-resources:
-- title: 
-  description: 
-  href: 
+-
